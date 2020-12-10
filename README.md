@@ -1,10 +1,10 @@
-# Dfi Money Vaults Subgraph
+# Ify finance Vaults Subgraph
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build](https://github.com/iearn-finance/yearn-subgraph/workflows/Build/badge.svg)
 ![Lint](https://github.com/iearn-finance/yearn-subgraph/workflows/Lint/badge.svg)
 
-Subgraph to track dfi-money vaults metrics on Mainnet.
+Subgraph to track Ify finance  vaults metrics on Mainnet.
 
 ## Setup
 
